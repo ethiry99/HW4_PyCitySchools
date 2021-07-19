@@ -1,5 +1,4 @@
 # HW4_PyCitySchools
-Homework 4
 
 ### Overview
 The purpose of this analysis is to change reading and math scores for ninth graders at Thomas High School to NaN (Not a Number) due to the appearance that some scores were altered.  After that change the previous analysis will be repeated to determine how the results were affected. 
@@ -49,32 +48,22 @@ The purpose of this analysis is to change reading and math scores for ninth grad
   ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20schoolsize.png)
   
 - #### Scores by school type
-    The categories % Passing Math, % Passing Reading and % Overall score also display a decrease for charter school, the type that Thomas High School is.
-    ![]()
+    The categories % Passing Math, % Passing Reading and % Overall score also display a decrease for charter school, the type that Thomas High School is. The reduction is about 3 to 4%.                   
+    ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/original%20score%20by%20type.png)
     
-    ![]()
+    ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/altered%20score%20by%20type.png)
 
   
 ### Summary
+- #### Changes to School Summary table
+    There was a large reduction in the Thomas High School results for % Passing Math, % Passing Reading and % Overall score.  This can expected because 1 of the 4 grades did not receive a score for reading and math.  There no ninth graders received a passing score in math or reading.
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (7 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections (2 pt).
-Each section has a heading and subheading (3 pt).
-Links to images are working, and code is formatted and displayed correctly (2 pt).
-Analysis (18 points)
-The written analysis has the following:
-
-Overview of the school district analysis:
-
-The purpose of this analysis is well defined (3 pt).
-Results:
-
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-Summary:
-
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+- #### Changes to Summary by School 
+    For the opposite reason, the Summary of all schools had a small impact to the results.  The ninth graders at Thomas High School represent a much smaller percentage of the 37,000 + students in the analysis so there NaN for testing scores had a minimal impact.
+    
+- #### Changes to School Rank
+    Without approximately 25% of the students receiving passing grades, the overall rank for Thomas High School dropped from 2nd to 8th.  
+ 
+ - #### Changes to School Type
+    The Charter Schools in this analysis perform very well.  There was a relatively small drop in testing performance for Charter Schools in the School Type results. This is largely because ninth graders at Thomas High School represent a small number of of all Charter School students among the 37,000+ students represented in the data. 
+    
