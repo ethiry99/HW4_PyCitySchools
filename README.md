@@ -34,13 +34,16 @@ The purpose of this analysis is to change reading and math scores for ninth grad
     
 
 - #### Scores by school spending
-    There was a reduction in the scores by school spending. Particularly in the % Passing Math, % Passing Reading and % Overall categories.  The top table are the original results.  The bottom table shows the results after the changes. 
+    There was a reduction in the scores by school spending in the $630-644 category, the category that Thomas High School is a part of. Particularly in the % Passing Math, % Passing Reading and % Overall score.  The top table are the original results.  The bottom table shows the results after the changes. 
     
-    ![]()
+    ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/original%20score%20by%20budget%20bins.png)
 
     ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20score%20by%20budget%20bins.png)
+    
+    There are also variations in the other budget catecories.  This is casused by diferences in how the mean scores were calculated.  In the original analysis they are calculated as averages of the school summary averages.  In the second analysis, the averages are calculated using the complete data, they are calculated on a student by student basis.  I felt this was more accurate that using the averages of school averages. Using the student level data the results are an acurate weight average.  This is true of the scores by school size and the scores by school type as well.    
 
 - #### Scores by school size
+    
 
 - #### Scores by school type
 
