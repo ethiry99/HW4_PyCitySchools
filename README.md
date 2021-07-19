@@ -26,7 +26,7 @@ The purpose of this analysis is to change reading and math scores for ninth grad
     
     Dropping the ninth grade scores did not affect Thomas High School's overall ranking.
     
-    [Rank after dropping Thomas High School ninth grade scores](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20Top%20Schools%20labeled.png)
+    [Rank after dropping Thomas High School ninth grade scores](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20school%20summary.png)
     
 - #### Math and reading scores by grade
     Once the math and reading scores for Thomas High School were removed they no longer had a score to display for the ninth grade.  Their overall score for ninth grade in math and reading are now NaN.
