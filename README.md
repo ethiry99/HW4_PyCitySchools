@@ -34,8 +34,11 @@ The purpose of this analysis is to change reading and math scores for ninth grad
     
 
 - #### Scores by school spending
-
+    There was a reduction in the scores by school spending. Particularly in the % Passing Math, % Passing Reading and % Overall categories.  The top table are the original results.  The bottom table shows the results after the changes. 
+    
     ![]()
+
+    ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20score%20by%20budget%20bins.png)
 
 - #### Scores by school size
 
