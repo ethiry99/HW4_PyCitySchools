@@ -6,13 +6,11 @@ The purpose of this analysis is to change reading and math scores for ninth grad
 
 ### Results
 
-  ####  - How is the district summary affected?
+- #### How is the district summary affected?
+    The district summary only had minor changes.  This is expected as the scores that changes are only one grade at one school.  Since there are 15 schools each with four grades throwing out such a small amount doesn't have a significant impact
+- #### How is the school summary affected?
+    The affect 
 
-
-
-
-
-- How is the school summary affected?
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
