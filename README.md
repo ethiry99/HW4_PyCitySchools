@@ -49,6 +49,10 @@ The purpose of this analysis is to change reading and math scores for ninth grad
   ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20schoolsize.png)
   
 - #### Scores by school type
+    The categories % Passing Math, % Passing Reading and % Overall score also display a decrease for charter school, the type that Thomas High School is.
+    ![]()
+    
+    ![]()
 
   
 ### Summary
