@@ -14,7 +14,7 @@ The purpose of this analysis is to change reading and math scores for ninth grad
     In the adjusted analysis those categories saw a small decrease.
     ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20school%20summary.png)
     
-    ![]()
+    ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Original%20top%20schools%20labeled.png)
      
     I'm using the unformated results to be able to see the small changes in the math and reading scores.
 
