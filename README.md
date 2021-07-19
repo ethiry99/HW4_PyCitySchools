@@ -14,7 +14,7 @@ The purpose of this analysis is to change reading and math scores for ninth grad
     In the adjusted analysis those categories saw a small decrease.
     ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20school%20summary.png)
     
-    ![]()
+    ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Original%20top%20schools%20labeled.png)
      
     I'm using the unformated results to be able to see the small changes in the math and reading scores.
 
@@ -26,7 +26,7 @@ The purpose of this analysis is to change reading and math scores for ninth grad
     
     Dropping the ninth grade scores did not affect Thomas High School's overall ranking.
     
-    [Rank after dropping Thomas High School ninth grade scores](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20Top%20Schools%20labeled.png)
+    [Rank after dropping Thomas High School ninth grade scores](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20school%20summary.png)
     
 - #### Math and reading scores by grade
     Once the math and reading scores for Thomas High School were removed they no longer had a score to display for the ninth grade.  Their overall score for ninth grade in math and reading are now NaN.
@@ -56,14 +56,14 @@ The purpose of this analysis is to change reading and math scores for ninth grad
   
 ### Summary
 - #### Changes to School Summary table
-    There was a large reduction in the Thomas High School results for % Passing Math, % Passing Reading and % Overall score.  This can expected because 1 of the 4 grades did not receive a score for reading and math.  There no ninth graders received a passing score in math or reading.
+    There were only minor changes to the Thomas High School results for % Passing Math, % Passing Reading and % Overall score.  Since the student count was recduced accordingly to the scores that were dropped this results is expected.
 
 - #### Changes to Summary by School 
-    For the opposite reason, the Summary of all schools had a small impact to the results.  The ninth graders at Thomas High School represent a much smaller percentage of the nearly 40,000 students in the analysis so there NaN for testing scores had a minimal impact.
+    The Summary of all schools also only had a small impact to the results.  The ninth graders at Thomas High School represent a much smaller percentage of the nearly 40,000 students in the analysis so there NaN for testing scores had a minimal impact.
     
 - #### Changes to School Rank
     Without approximately 25% of the students receiving passing grades, the overall rank for Thomas High School dropped from 2nd to 8th.  
  
  - #### Changes to School Type
-    The Charter Schools in this analysis perform very well.  There was a relatively small drop in testing performance for Charter Schools in the School Type results. This is largely because ninth graders at Thomas High School represent a small number of of all Charter School students among the 37,000+ students represented in the data. 
+    The Charter Schools in this analysis perform very well.  There was a relatively small drop in testing performance for Charter Schools in the School Type results. This is largely because ninth graders at Thomas High School represent a small number of of all Charter School students among the nearly 40,000 students represented in the data. 
     
