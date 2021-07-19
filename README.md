@@ -28,17 +28,16 @@ The purpose of this analysis is to change reading and math scores for ninth grad
     After dropping the ninth grade reading and writing scores they ranked 8th.
 - #### Math and reading scores by grade
 
-    
-    
+- #### Scores by school spending
 
+- #### Scores by school size
 
+- #### Scores by school type
 
+  
+### Summary
 
-
-Scores by school spending
-Scores by school size
-Scores by school type
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 Deliverable 3 Requirements
 Structure, Organization, and Formatting (7 points)
