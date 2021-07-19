@@ -9,12 +9,12 @@ The purpose of this analysis is to change reading and math scores for ninth grad
     The district summary only had minor changes.  This is expected as the scores that changes are only one grade at one school.  Since there are 15 schools each with four grades throwing out such a small amount doesn't have a significant impact
 
 - #### How is the school summary affected?
-    The effect can be seen to a much greater degree in the results of the School Summary Analysis.  In the original analysis; the % Passing Math, % Passing Reading and % Overall passing were all over 90%.
+    The overall effect on the school summary is minimal when the student count is reduced by the number of Thomas High School student the received a NaN
     
-    ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/original_school_summary%20labeled.png)
+    ![]()
     
-    In the adjusted analysis those categories drop into the 60's.
-     ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/adjusted_school_summary%20labeled.png)
+    In the adjusted analysis those categories saw a small decrease.
+    ![]()
      
     I'm using the unformated results to be able to see the small changes in the math and reading scores.
 
