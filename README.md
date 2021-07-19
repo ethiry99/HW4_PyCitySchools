@@ -9,12 +9,12 @@ The purpose of this analysis is to change reading and math scores for ninth grad
     The district summary only had minor changes.  This is expected as the scores that changes are only one grade at one school.  Since there are 15 schools each with four grades throwing out such a small amount doesn't have a significant impact
 
 - #### How is the school summary affected?
-    The overall effect on the school summary is minimal when the student count is reduced by the number of Thomas High School student the received a NaN
-    
-    ![]()
-    
+    The overall effect on the school summary is minimal when the student count is reduced by the number of Thomas High School student that received a NaN
+       
     In the adjusted analysis those categories saw a small decrease.
     ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20school%20summary.png)
+    
+    ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Original%20top%20schools%20labeled.png)
      
     I'm using the unformated results to be able to see the small changes in the math and reading scores.
 
@@ -24,7 +24,7 @@ The purpose of this analysis is to change reading and math scores for ninth grad
 
     ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Original%20top%20schools%20labeled.png)                 
     
-    After dropping the ninth grade reading and writing scores they ranked 8th.
+    Dropping the ninth grade scores did not affect Thomas High School's overall ranking.
     
     [Rank after dropping Thomas High School ninth grade scores](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20Top%20Schools%20labeled.png)
     
@@ -59,7 +59,7 @@ The purpose of this analysis is to change reading and math scores for ninth grad
     There was a large reduction in the Thomas High School results for % Passing Math, % Passing Reading and % Overall score.  This can expected because 1 of the 4 grades did not receive a score for reading and math.  There no ninth graders received a passing score in math or reading.
 
 - #### Changes to Summary by School 
-    For the opposite reason, the Summary of all schools had a small impact to the results.  The ninth graders at Thomas High School represent a much smaller percentage of the 37,000 + students in the analysis so there NaN for testing scores had a minimal impact.
+    For the opposite reason, the Summary of all schools had a small impact to the results.  The ninth graders at Thomas High School represent a much smaller percentage of the nearly 40,000 students in the analysis so there NaN for testing scores had a minimal impact.
     
 - #### Changes to School Rank
     Without approximately 25% of the students receiving passing grades, the overall rank for Thomas High School dropped from 2nd to 8th.  
