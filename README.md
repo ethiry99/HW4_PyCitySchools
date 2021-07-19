@@ -22,7 +22,7 @@ The purpose of this analysis is to change reading and math scores for ninth grad
     In the origininal analysis, Thomas High School ranked second in % Overall Passing.  
     
 
-    ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Original%20top%20schools%20labeled.png)                 
+    ![]()                 
     
     Dropping the ninth grade scores did not affect Thomas High School's overall ranking.
     
