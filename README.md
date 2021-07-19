@@ -56,14 +56,14 @@ The purpose of this analysis is to change reading and math scores for ninth grad
   
 ### Summary
 - #### Changes to School Summary table
-    There was a large reduction in the Thomas High School results for % Passing Math, % Passing Reading and % Overall score.  This can expected because 1 of the 4 grades did not receive a score for reading and math.  There no ninth graders received a passing score in math or reading.
+    There were only minor changes to the Thomas High School results for % Passing Math, % Passing Reading and % Overall score.  Since the student count was recduced accordingly to the scores that were dropped this results is expected.
 
 - #### Changes to Summary by School 
-    For the opposite reason, the Summary of all schools had a small impact to the results.  The ninth graders at Thomas High School represent a much smaller percentage of the nearly 40,000 students in the analysis so there NaN for testing scores had a minimal impact.
+    The Summary of all schools also only had a small impact to the results.  The ninth graders at Thomas High School represent a much smaller percentage of the nearly 40,000 students in the analysis so there NaN for testing scores had a minimal impact.
     
 - #### Changes to School Rank
     Without approximately 25% of the students receiving passing grades, the overall rank for Thomas High School dropped from 2nd to 8th.  
  
  - #### Changes to School Type
-    The Charter Schools in this analysis perform very well.  There was a relatively small drop in testing performance for Charter Schools in the School Type results. This is largely because ninth graders at Thomas High School represent a small number of of all Charter School students among the 37,000+ students represented in the data. 
+    The Charter Schools in this analysis perform very well.  There was a relatively small drop in testing performance for Charter Schools in the School Type results. This is largely because ninth graders at Thomas High School represent a small number of of all Charter School students among the nearly 40,000 students represented in the data. 
     
