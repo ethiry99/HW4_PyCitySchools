@@ -43,14 +43,11 @@ The purpose of this analysis is to change reading and math scores for ninth grad
     There are also variations in the other budget catecories.  This is casused by diferences in how the mean scores were calculated.  In the original analysis they are calculated as averages of the school summary averages.  In the second analysis, the averages are calculated using the complete data, they are calculated on a student by student basis.  I felt this was more accurate that using the averages of school averages. Using the student level data the results are an acurate weight average.  This is true of the scores by school size and the scores by school type as well.    
 
 - #### Scores by school size
-  
-  
+    A decrease in % Passing Math, % Passing Reading and % Overall score can also be seen in the scores by school size table.  Thomas High School is a medium sized school.  The decrease is about 5% in each category   
   ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Original%20schoolsize.png)
   
   ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20schoolsize.png)
   
-  
-
 - #### Scores by school type
 
   
