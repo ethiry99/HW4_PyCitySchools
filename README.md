@@ -11,10 +11,10 @@ The purpose of this analysis is to change reading and math scores for ninth grad
 - #### How is the school summary affected?
     The overall effect on the school summary is minimal when the student count is reduced by the number of Thomas High School student the received a NaN
     
-    ![](a)
+    ![]()
     
     In the adjusted analysis those categories saw a small decrease.
-    ![](a)
+    ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20school%20summary.png)
      
     I'm using the unformated results to be able to see the small changes in the math and reading scores.
 
