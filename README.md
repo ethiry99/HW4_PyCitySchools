@@ -26,6 +26,9 @@ The purpose of this analysis is to change reading and math scores for ninth grad
     ![](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Original%20top%20schools%20labeled.png)                 
     
     After dropping the ninth grade reading and writing scores they ranked 8th.
+    
+    [Rank after dropping Thomas High School ninth grade scores](https://github.com/ethiry99/HW4_PyCitySchools/blob/main/Resources/images/Altered%20Top%20Schools%20labeled.png)
+    
 - #### Math and reading scores by grade
 
 - #### Scores by school spending
